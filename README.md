@@ -64,7 +64,7 @@ jokes-generator/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/jokes-generator.git
+   git clone https://github.com/Bob299-bob/Joke-Generator-React
    cd jokes-generator
    ```
 
@@ -100,6 +100,3 @@ jokes-generator/
    * Optionally, the app could store user data for personalization.
 
 ---
-
-Would you like me to also generate the **React source files** (App.js, Form.jsx, CSS, etc.) matching the design in your screenshot?
-I can create a ready-to-run project structure for you.
