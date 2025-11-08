@@ -1,0 +1,9 @@
+button{
+    margin: 50px 0 0 500px;
+    font-weight: bold;
+    border-radius: 5px 15px 5px 15px;
+    font-size: 20px;
+    background: #2dd370;
+    cursor: pointer;
+    box-shadow: 12px 12px 14px rgb(168, 160, 154);
+}
