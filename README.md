@@ -9,12 +9,6 @@ Built with a playful **comic-style UI** and powered by **React hooks**.
 
 ---
 
-## 🎨 Preview
-
-![Jokes Generator Screenshot](8c0f9b40-2e28-4c21-81c1-342d484b3565.png)
-
----
-
 ## 🚀 Features
 
 * 🎭 Clean and colorful comic-style design
